@@ -23,7 +23,7 @@ Questions List :
 2) Simple while Loop Program
 3) Basic do while Loop Program
 4) Basic program to show the use of nested for Loops
-5) Program to find Factorial of a Number using for loop
+5) Program to find the Factorial of a Number using for loop
 6) Program to find the Factorial of a Number using a while loop
 7) Program to print the Fibonacci Series
 8) Program to check whether a Number is a Palindrome
