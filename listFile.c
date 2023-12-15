@@ -1,4 +1,4 @@
-#C Program to Print names of all Files present in a Directory
+Q) Program to Print names of all Files present in a Directory
 
 #include<stdio.h>
 #include<dirent.h>
