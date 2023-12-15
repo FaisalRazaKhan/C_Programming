@@ -18,7 +18,7 @@ Questions List :
 9) Write a C Program for  Swapping Two Numbers.
 10) Write a C Program for Largerst and Smallest using Global Declaration.
 
-## Looping Question
+# Looping Question
 1) Basic for Loop Program
 2) Simple while Loop Program
 3) Basic do while Loop Program
@@ -31,10 +31,10 @@ Questions List :
 10) Reverse a String by using the new character array
 11) Reverse a String by swapping the characters of the string
     
-### Number Crunching Question
+# Number Crunching Question
 1) Program to find the average of N Numbers
 2) Program to find Armstrong Number between 1 to 500.
-3) Program to check whether a number is Armstrong Number.
+3) Program to check whether a number is an Armstrong Number.
 4) Checking for Odd and Even Numbers using the Bitwise Operator.
 5) Checking if the input number is Odd or Even without using the %(Mod) Operator.
 6) Program to find Factors of a Number.
@@ -45,9 +45,9 @@ Questions List :
 11) Program to check if the input Number is int or float.
 12) Program to print the Multiplication Table of any Number
 
-#### Pointers Question
-##### Concept of Recursion Question
-###### File and Streams Question
+# Pointers Question
+# Concept of Recursion Question
+# File and Streams Question
 1) C Program to Print names of all Files present in a Directory.
 2) C Program to Read the content of a File and Display it.
 3) C Program to find the size of any File.
@@ -55,6 +55,6 @@ Questions List :
 5) C Program to reverse the content of a File.
 6) C Program to copy the content of one File into another File
 
-####### MISCELLANEOUS-1 Question
-######## MISCELLANEOUS-2 Question
+# MISCELLANEOUS-1 Question
+# MISCELLANEOUS-2 Question
 
